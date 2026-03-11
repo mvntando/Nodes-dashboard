@@ -99,8 +99,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mntando/Traffic-lights-management-system.git
-   cd Traffic-lights-management-system
+   git clone https://github.com/mvntando/Nodes-dashboard.git
+   cd Nodes-dashboard
    ```
 
 2. **Install dependencies**
@@ -152,7 +152,7 @@ The system is designed to work with a **distributed ESP32 mesh network** impleme
 All hardware-related logic is implemented in a separate repository:
 
 🔗 **ENowMesh – ESP32 Mesh Networking**
-[https://github.com/mntando/ENowMesh](https://github.com/mntando/ENowMesh)
+[https://github.com/mvntando/ENowMesh](https://github.com/mvntando/ENowMesh)
 
 Please refer to that repository for:
 
@@ -196,4 +196,4 @@ This project is licensed under the **MIT License**.
 ## Author
 
 * **Author:** MV
-* **GitHub:** [https://github.com/mntando](https://github.com/mntando)
+* **GitHub:** [https://github.com/mvntando](https://github.com/mvntando)
